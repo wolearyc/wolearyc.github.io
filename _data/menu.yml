@@ -4,8 +4,8 @@
 entries:
   - title: About
     entries:
-      - title: I combine computation and experiments to solve tough materials and chemistry problems
-      - title: Recently graduated with my PhD from MIT. Currently looking for my next challenge.
+      - title: I use computers to solve tough materials and chemistry problems
+      - title: I current work with Altrove to develop simulation- and ML-based pipelines for materials discovery
       - title: Resume (general)
         url: OLeary_Resume.pdf
   
@@ -35,6 +35,7 @@ entries:
 
   - title: Where I've Been
     entries:
+      - title: Los Angeles and NYC (consulting for Altrove), 2024-2025
       - title: MIT (graduate school), 2018-2024
       - title: Technical University of Munich (visiting researcher), 2022-2023 
       - title: University of Cambridge (study abroad), 2017
